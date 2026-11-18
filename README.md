@@ -9,4 +9,4 @@ Desenvolvo o **Pertivo**, app de treino e dieta que junta personal e nutricionis
 **Ferramentas:** React · Next.js · Node.js · Supabase · Tailwind CSS · Capacitor (Android) · Vercel · Git
 
 - Instagram: [@pertivo.app](https://www.instagram.com/pertivo.app)
-- LinkedIn: Márcio Queiroz
+- LinkedIn: [Márcio Queiroz](https://www.linkedin.com/in/marcio-queiroz-ma)
